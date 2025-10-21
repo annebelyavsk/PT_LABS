@@ -1,0 +1,15 @@
+d:\REPOS\PT_LABS\LAB4\OOP_SAMPLE\bin\Debug\net9.0\OOP_SAMPLE.exe
+d:\REPOS\PT_LABS\LAB4\OOP_SAMPLE\bin\Debug\net9.0\OOP_SAMPLE.deps.json
+d:\REPOS\PT_LABS\LAB4\OOP_SAMPLE\bin\Debug\net9.0\OOP_SAMPLE.runtimeconfig.json
+d:\REPOS\PT_LABS\LAB4\OOP_SAMPLE\bin\Debug\net9.0\OOP_SAMPLE.dll
+d:\REPOS\PT_LABS\LAB4\OOP_SAMPLE\bin\Debug\net9.0\OOP_SAMPLE.pdb
+d:\REPOS\PT_LABS\LAB4\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.GeneratedMSBuildEditorConfig.editorconfig
+d:\REPOS\PT_LABS\LAB4\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.AssemblyInfoInputs.cache
+d:\REPOS\PT_LABS\LAB4\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.AssemblyInfo.cs
+d:\REPOS\PT_LABS\LAB4\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.csproj.CoreCompileInputs.cache
+d:\REPOS\PT_LABS\LAB4\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.sourcelink.json
+d:\REPOS\PT_LABS\LAB4\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.dll
+d:\REPOS\PT_LABS\LAB4\OOP_SAMPLE\obj\Debug\net9.0\refint\OOP_SAMPLE.dll
+d:\REPOS\PT_LABS\LAB4\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.pdb
+d:\REPOS\PT_LABS\LAB4\OOP_SAMPLE\obj\Debug\net9.0\OOP_SAMPLE.genruntimeconfig.cache
+d:\REPOS\PT_LABS\LAB4\OOP_SAMPLE\obj\Debug\net9.0\ref\OOP_SAMPLE.dll
